@@ -23,7 +23,7 @@ Data Science undergraduate specializing in full-stack engineering and practical 
 
 ---
 
-### 📫 Connect
+### Connect
 - [LinkedIn](https://www.linkedin.com/in/thanura-aru/)
 - [Email](mailto:thanuraaru@email.com)
 
