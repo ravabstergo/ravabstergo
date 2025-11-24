@@ -13,12 +13,12 @@ Data Science undergraduate specializing in full-stack engineering and practical 
 ---
 
 ### Tech Stack
-**Languages:** `Python`, JavaScript, Java, C/C++, Kotlin  
-**Frontend:** React, Next.js, StreamLit  
-**Backend:** Node.js, Flask, Java  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**ML & AI:** LangChain, LangGraph, RAG pipelines, model fine-tuning  
-**Cloud & DevOps:** Vercel, Supabase, AWS, Azure, Docker
+**Languages:** `Python` `JavaScript` `Java` `C/C++` `Kotlin`  
+**Frontend:** `React` `Next.js` `StreamLit`  
+**Backend:** `Node.js` `Flask` `Java`  
+**Databases:** `PostgreSQL` `MySQL` `MongoDB`  
+**ML & AI:** `LangChain` `LangGraph` `RAG pipelines`  
+**Cloud & DevOps:** `Vercel` `Supabase` `AWS` `Azure` `Docker`
 
 
 ---
