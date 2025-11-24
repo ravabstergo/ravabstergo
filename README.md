@@ -15,7 +15,7 @@ Data Science undergraduate specializing in full-stack engineering and practical 
 ### Tech Stack
 **Languages:** Python, JavaScript, Java, C/C++, Kotlin  
 **Frontend:** React, Next.js, StreamLit  
-**Backend:** Node.js, Flask, Java 
+**Backend:** Node.js, Flask, Java
 **Databases:** PostgreSQL, MySQL, MongoDB 
 **ML & AI:** LangChain, LangGraph, RAG pipelines, model fine-tuning  
 **Cloud & DevOps:** Vercel, Supabase, AWS, Azure, Docker
@@ -23,9 +23,9 @@ Data Science undergraduate specializing in full-stack engineering and practical 
 ---
 
 ### 📫 Connect
-- LinkedIn: [*(add link)*](https://www.linkedin.com/in/thanura-aru/)
-- Email: *(add email)*(thanuraaru@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/thanura-aru/)
+- [Email](mailto:thanuraaru@email.com)
 
 ---
 
-> Building technology that turns complexity into clarity—one project at a time.
+> Building technology that turns complexity into clarity, one project at a time.
