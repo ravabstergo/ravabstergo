@@ -13,7 +13,7 @@ Data Science undergraduate specializing in full-stack engineering and practical 
 ---
 
 ### Tech Stack
-**Languages:** Python, JavaScript, Java, C/C++, Kotlin  
+**Languages:** `Python`, JavaScript, Java, C/C++, Kotlin  
 **Frontend:** React, Next.js, StreamLit  
 **Backend:** Node.js, Flask, Java  
 **Databases:** PostgreSQL, MySQL, MongoDB  
